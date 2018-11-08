@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\ee98fcfdf06c5af60003a2e1bef60ee706427ea6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_d9a626024148b68243d5b3143c360655c0feb08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\11f9422b69067c50d2803ef7638bd0f31232323b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_ae32f43928e8baa9476c8550e2433b5984abef34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\2aeb00dbca80c63d8dc5b543c39d5ced59c7322b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_d1b1669d48ecd7ba382a653c2831f4dab100b6c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\cd9aa63d6aae096ee2bf4731c7ce9d35e881bd54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86c62d01a8ee039fc5f629a34d15de8bf275b5db">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_9f4ed6b9275d5c1898af52889eb06ab156a1b237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\0a830f1e0bf4b8935949e85e33f569bc8c5488e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_b997151c851020af6c4874d4b34284839d505762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\5b5df3df3e30bfd999c46b9525dd1a9abcb4029d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_59a10b4fa5b65b5195fa7eb652790fdf69037f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\b987ae71634a5e9960f32a6828c87ce9cf9b3c17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_862e8dd49bf35b6c58e535684ee563f1931c3a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\page\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="015d1cce24fadcbeb3262c595ecf811e1f71c780">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_fbfb5e615cd60646d9b148e337a3a8972c5803a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\e5023a5f3bd4996822e19d6895736c1edf7cbb4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_202ca92b9120fe185c83ae0a756acb2024536a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\0834fab0d201123e0d913df1122d935c64ff938a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_65c2a0b7e33002594d97a0943699afc70ad7c576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_6a2ae69a5520ff7be001092dbb91ad94b0b2e47d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\64486bd73ed91e6dc0a01f51d9fc2ff1c07516bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_8e08b2a92ecb45603fef80e6283907411cfdf2ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\cc0392924bec6c9bc55c935dceb09fdc4b84606e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_0a4fa7f4413be8a899407186206055bc312558d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\22a61c423f455613fc684b533f12812e2b1c5283\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_d751935b975c3868a4d639b7bd4d78380c784e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\65214c3d719c6924e0a976f813eb31044c4f66c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\chromedownload\DoubleScrollVIew-master\DoubleScrollVIew-master\app\build\intermediates\pre-dexed\debug\classes_9e299e80ccb1ffb36894376d895df5011210c67a.jar" />
+    </item>
+
+</items>
